@@ -1,0 +1,101 @@
+body {
+}
+
+.inicio {
+  background-color: black;
+  color: white;
+}
+
+.navbarP {
+  background-color: #f0a83e;
+  color: white;
+}
+
+.img-fluid {
+  width: 100%;
+  height: 100%;
+  left: calc(50% - 1025px / 2 + 0.5px);
+  top: 81px;
+}
+
+.text1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #3c2313;
+}
+
+.buttonC {
+  position: absolute;
+  width: 141px;
+  height: 49px;
+  left: 1567px;
+  top: 734px;
+
+  background: #f0a83e;
+  border-radius: 5px;
+}
+
+.centrarD {
+  text-align: center;
+
+  /* identical to box height */
+}
+
+.producC {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #3c2313;
+}
+
+.producP {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: #666666;
+}
+
+.imagesP {
+  text-align: center;
+}
+
+.inputF {
+  background: #3c2313;
+  border-radius: 15px;
+  color: white;
+}
+.seccionF {
+  color: white;
+  background: #3c2313;
+}
+
+.buttonR {
+  background: #8a8787;
+  border-radius: 15px;
+  color: white;
+}
+
+.buttonE {
+  background: #f0a83e;
+  border-radius: 15px;
+  color: white;
+}
+
+.navbarS{
+    background: #F0A83E
+}
+
+.footerS {
+  background: #222222;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
